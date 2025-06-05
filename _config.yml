@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Pramesh Shakya"
   pronouns         : # example: "she/her"  
-  bio              : "Bioinformatician"
+  bio              : "Ph.D. candidate"
   location         : "Orlando"
   employer         : "University of Central Florida"
   uri              : # URL
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/jikhashkya"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
